@@ -1,0 +1,34 @@
+{
+	"hotels": [
+		{
+			"id": 1,
+			"name": "Hotel Ritz",
+			"description": "Hotel de Lujo",
+			"image": "/img/hotel1.jpeg"
+		},
+		{
+			"id": 2,
+			"name": "Hotel Estrella",
+			"description": "Un lugar para relajarse y disfrutar",
+			"image": "/img/hotel2.jpeg"
+		},
+		{
+			"id": 3,
+			"name": "Hotel Playa Azul",
+			"description": "Un oasis frente al mar",
+			"image": "/img/hotel3.jpeg"
+		},
+		{
+			"id": 4,
+			"name": "Hotel Montaña Verde",
+			"description": "Una experiencia en la naturaleza",
+			"image": "/img/hotel4.jpeg"
+		},
+		{
+			"id": 5,
+			"name": "Hotel Soleado",
+			"description": "Disfruta del sol y la diversión",
+			"image": "/img/hotel5.jpeg"
+		}
+	]
+}
